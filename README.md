@@ -1,1 +1,2 @@
 # odin-recipes
+I am putting my HTML knowledge to the test. My goal is to create a main index page that will have links to a few recipes. I won't look to pretty when I finish, but as long as it's functioning properly.
